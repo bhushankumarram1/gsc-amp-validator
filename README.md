@@ -1,6 +1,7 @@
 ## Project Structure
 
 - This project is a sample project. <br />
+- For validating via command line. <br />
 - JSON files in <b>data/</b> directory <br />
 
 ---
@@ -11,7 +12,8 @@ Follow only for the first time setup
 
 1. Create virtual environment: python3 -m venv env
 2. Activate virtual environment: source env/bin/activate
-3. Install requirements: pip install -r requirements.txt
+3. Install AMP HTML Validator on command: npm install -g amphtml-validator
+
 
 ---
 
@@ -22,4 +24,4 @@ Quickly Validate AMP URLs exported as csv from GSC, just follow following steps 
 Steps:
 1. Export AMP URLs from Google Search Console as CSV file
 2. Copy the Table.csv file in the imports folder
-3. Run the code : python validate-gsc.py
+4. Run the code : python validate-gsc.py
