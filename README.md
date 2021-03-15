@@ -2,7 +2,7 @@
 
 - This project is a sample project. <br />
 - For validating via command line. <br />
-- JSON files in <b>data/</b> directory <br />
+- CSV files in <b>data/</b> directory <br />
 
 ---
 
